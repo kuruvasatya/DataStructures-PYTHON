@@ -1,0 +1,245 @@
+
+*******************SINGLE LINKED LIST *************************
+0> Insert bulk elements
+1> Insert at biggining
+2> Insert at end
+3> Insert at position
+4> Delete at biggining
+5> Delete at end
+6> Delete at required position
+7> Traverse the list
+8> Reversed list
+9> Quit
+
+Enter your choice : 0
+enter List of elements :1 2 3 4 5 6
+
+*******************SINGLE LINKED LIST *************************
+0> Insert bulk elements
+1> Insert at biggining
+2> Insert at end
+3> Insert at position
+4> Delete at biggining
+5> Delete at end
+6> Delete at required position
+7> Traverse the list
+8> Reversed list
+9> Quit
+
+Enter your choice : 7
+****************************** SUMMMARY *****************************
+
+Total Number of elements in list are :  6
+The elements are :  1 -> 2 -> 3 -> 4 -> 5 -> 6
+
+*******************SINGLE LINKED LIST *************************
+0> Insert bulk elements
+1> Insert at biggining
+2> Insert at end
+3> Insert at position
+4> Delete at biggining
+5> Delete at end
+6> Delete at required position
+7> Traverse the list
+8> Reversed list
+9> Quit
+
+Enter your choice : 1
+enter element : 0
+
+*******************SINGLE LINKED LIST *************************
+0> Insert bulk elements
+1> Insert at biggining
+2> Insert at end
+3> Insert at position
+4> Delete at biggining
+5> Delete at end
+6> Delete at required position
+7> Traverse the list
+8> Reversed list
+9> Quit
+
+Enter your choice : 7
+****************************** SUMMMARY *****************************
+
+Total Number of elements in list are :  7
+The elements are :  0 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6
+
+*******************SINGLE LINKED LIST *************************
+0> Insert bulk elements
+1> Insert at biggining
+2> Insert at end
+3> Insert at position
+4> Delete at biggining
+5> Delete at end
+6> Delete at required position
+7> Traverse the list
+8> Reversed list
+9> Quit
+
+Enter your choice : 2
+enter element :7
+
+*******************SINGLE LINKED LIST *************************
+0> Insert bulk elements
+1> Insert at biggining
+2> Insert at end
+3> Insert at position
+4> Delete at biggining
+5> Delete at end
+6> Delete at required position
+7> Traverse the list
+8> Reversed list
+9> Quit
+
+Enter your choice : 7
+****************************** SUMMMARY *****************************
+
+Total Number of elements in list are :  8
+The elements are :  0 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7
+
+*******************SINGLE LINKED LIST *************************
+0> Insert bulk elements
+1> Insert at biggining
+2> Insert at end
+3> Insert at position
+4> Delete at biggining
+5> Delete at end
+6> Delete at required position
+7> Traverse the list
+8> Reversed list
+9> Quit
+
+Enter your choice : 3
+enter element :99
+enter position :3
+
+*******************SINGLE LINKED LIST *************************
+0> Insert bulk elements
+1> Insert at biggining
+2> Insert at end
+3> Insert at position
+4> Delete at biggining
+5> Delete at end
+6> Delete at required position
+7> Traverse the list
+8> Reversed list
+9> Quit
+
+Enter your choice : 7
+****************************** SUMMMARY *****************************
+
+Total Number of elements in list are :  9
+The elements are :  0 -> 1 -> 99 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7
+
+*******************SINGLE LINKED LIST *************************
+0> Insert bulk elements
+1> Insert at biggining
+2> Insert at end
+3> Insert at position
+4> Delete at biggining
+5> Delete at end
+6> Delete at required position
+7> Traverse the list
+8> Reversed list
+9> Quit
+
+Enter your choice : 4
+
+*******************SINGLE LINKED LIST *************************
+0> Insert bulk elements
+1> Insert at biggining
+2> Insert at end
+3> Insert at position
+4> Delete at biggining
+5> Delete at end
+6> Delete at required position
+7> Traverse the list
+8> Reversed list
+9> Quit
+
+Enter your choice : 7
+****************************** SUMMMARY *****************************
+
+Total Number of elements in list are :  8
+The elements are :  1 -> 99 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7
+
+*******************SINGLE LINKED LIST *************************
+0> Insert bulk elements
+1> Insert at biggining
+2> Insert at end
+3> Insert at position
+4> Delete at biggining
+5> Delete at end
+6> Delete at required position
+7> Traverse the list
+8> Reversed list
+9> Quit
+
+Enter your choice : 5
+
+*******************SINGLE LINKED LIST *************************
+0> Insert bulk elements
+1> Insert at biggining
+2> Insert at end
+3> Insert at position
+4> Delete at biggining
+5> Delete at end
+6> Delete at required position
+7> Traverse the list
+8> Reversed list
+9> Quit
+
+Enter your choice : 7
+****************************** SUMMMARY *****************************
+
+Total Number of elements in list are :  7
+The elements are :  1 -> 99 -> 2 -> 3 -> 4 -> 5 -> 6
+
+*******************SINGLE LINKED LIST *************************
+0> Insert bulk elements
+1> Insert at biggining
+2> Insert at end
+3> Insert at position
+4> Delete at biggining
+5> Delete at end
+6> Delete at required position
+7> Traverse the list
+8> Reversed list
+9> Quit
+
+Enter your choice : 6
+enter position to delete : 2
+
+*******************SINGLE LINKED LIST *************************
+0> Insert bulk elements
+1> Insert at biggining
+2> Insert at end
+3> Insert at position
+4> Delete at biggining
+5> Delete at end
+6> Delete at required position
+7> Traverse the list
+8> Reversed list
+9> Quit
+
+Enter your choice : 7
+****************************** SUMMMARY *****************************
+
+Total Number of elements in list are :  7
+The elements are :  1 -> 2 -> 3 -> 4 -> 5 -> 6
+
+*******************SINGLE LINKED LIST *************************
+0> Insert bulk elements
+1> Insert at biggining
+2> Insert at end
+3> Insert at position
+4> Delete at biggining
+5> Delete at end
+6> Delete at required position
+7> Traverse the list
+8> Reversed list
+9> Quit
+
+Enter your choice : 8
+6->5->4->3->1
